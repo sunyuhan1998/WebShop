@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+	<bean id = "CategoryDao" class="com.sunyuhan.dao.impl.CategoryDaoImpl" />
+	<bean id = "UserDao" class="com.sunyuhan.dao.impl.UserDaoImpl" />
+	<bean id = "ProductDao" class="com.sunyuhan.dao.impl.ProductDaoImpl" />
+	<bean id = "OrderDao" class="com.sunyuhan.dao.impl.OrderDaoImpl" />
+</beans>
